@@ -1,2 +1,2 @@
-# instagram-imita-o
+# instagram-imitacao
 primeiro trabalho em html/css
